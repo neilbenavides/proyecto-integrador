@@ -1,0 +1,1 @@
+Este proyecto en primera instancia es diseñado para brindar una experiencia cálida y personalizada a los usuarios al recibirlos con un mensaje de bienvenida que incluye su nombre. La idea detrás de este proyecto es crear un ambiente amigable y acogedor, donde cada usuario se sienta valorado y único desde el momento en que interactúa con el código.
