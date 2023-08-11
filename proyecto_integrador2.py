@@ -1,6 +1,6 @@
 import readchar
 
-print("Presiona cualquier tecla para empezar")
+print("Presiona cualquier tecla para empezar.")
 
 while True:
     teclas = readchar.readkey()
