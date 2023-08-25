@@ -12,6 +12,7 @@ def leer_tecla():
         tecla = readchar.readkey()
 
         if tecla == "n":
-          numero_actual += 1
+         numero_actual += 1
 
+    return numero_actual
 leer_tecla()
