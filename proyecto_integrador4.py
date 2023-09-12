@@ -53,5 +53,8 @@ def main_loop():
 
             if matriz_mapa[nuevo_py][nuevo_px] == '#':
                 matriz_mapa[nuevo_py][nuevo_px] = "#"
-             
+
+        if nuevo_py == 11 and nuevo_px == 10 :         
+            print ("¡Lo lograste! Felicidades")
+            break     
 main_loop()
