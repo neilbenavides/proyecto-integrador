@@ -7,7 +7,7 @@ def leer_tecla():
     while numero_actual <= 50:
         os.system('cls' if os.name == 'nt' else 'clear')
 
-        print(f"Presiona la tecla 'n' para avanzar. Número actual: {numero_actual}")
+        print(f"Presiona la tecla 'n' para continuar. Número actual: {numero_actual}")
 
         tecla = readchar.readkey()
 
